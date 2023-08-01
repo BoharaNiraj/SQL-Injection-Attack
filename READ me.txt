@@ -1,0 +1,1 @@
+This report shows you a SQL injection attack on a DVWA website it includes The attack its mitigation contorls measures and detailed overview of the attack.
